@@ -1,0 +1,52 @@
+name: flat-back
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=main
+  - aniso8601=9.0.1=pyhd8ed1ab_0
+  - asn1crypto=1.4.0=pyh9f0ad1d_0
+  - brotlipy=0.7.0=py36h27cfd23_1003
+  - ca-certificates=2021.5.25=h06a4308_1
+  - certifi=2021.5.30=py36h06a4308_0
+  - cffi=1.14.5=py36h261ae71_0
+  - chardet=3.0.4=py36h06a4308_1003
+  - click=7.1.2=py_0
+  - cryptography=3.4.7=py36hd23ed53_0
+  - deprecated=1.2.12=pyh44b312d_0
+  - flask=1.1.2=py_0
+  - flask-restful=0.3.8=pyhd3eb1b0_0
+  - idna=2.10=pyh9f0ad1d_0
+  - itsdangerous=1.1.0=py_0
+  - jinja2=2.11.2=py_0
+  - ld_impl_linux-64=2.33.1=h53a641e_7
+  - libedit=3.1.20210216=h27cfd23_1
+  - libffi=3.3=he6710b0_2
+  - libgcc-ng=9.1.0=hdf63c60_0
+  - libstdcxx-ng=9.1.0=hdf63c60_0
+  - markupsafe=2.0.1=py36h27cfd23_0
+  - ncurses=6.2=he6710b0_1
+  - openssl=1.1.1k=h27cfd23_0
+  - pip=21.1.1=py36h06a4308_0
+  - pycparser=2.20=pyh9f0ad1d_2
+  - pygithub=1.54.1=pyhd3deb0d_1
+  - pyjwt=1.7.1=py_0
+  - pyopenssl=20.0.1=pyhd3eb1b0_1
+  - pysocks=1.7.1=py36h06a4308_0
+  - python=3.6.13=hdb3f193_0
+  - python-dateutil=2.8.1=py_0
+  - pytz=2021.1=pyhd8ed1ab_0
+  - readline=8.1=h27cfd23_0
+  - requests=2.24.0=pyh9f0ad1d_0
+  - setuptools=52.0.0=py36h06a4308_0
+  - six=1.16.0=pyh6c4a22f_0
+  - sqlite=3.33.0=h62c20be_0
+  - tk=8.6.10=hbc83047_0
+  - urllib3=1.25.11=py_0
+  - werkzeug=1.0.1=py_0
+  - wheel=0.36.2=pyhd3eb1b0_0
+  - wrapt=1.12.1=py36h7b6447c_1
+  - xz=5.2.5=h7b6447c_0
+  - zlib=1.2.11=h7b6447c_3
+prefix: /home/joker/anaconda3/envs/flat-back
